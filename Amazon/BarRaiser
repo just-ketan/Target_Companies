@@ -1,0 +1,9 @@
+Round 1: Medium level DFS-based question and 2 LPs.
+Round 2: System Design (Notification Service) and 2 LPs.
+Round 3: Word Search (Both) and 2 LPs.
+porbably of similar difficulties
+
+Total time: 60 minutes.
+“You will be evaluated on ‘Logical and Maintainable code’ and Amazon LPs.”
+First 30 minutes were standard behavioral questions based on Amazon LPs.
+Next, I was asked to create an interface to implement package installations in operating systems. I was told, the actual installation API has been already written called installPackage() in the same class. I just needed to design the class which will have this public API along with other necessary APIs and/or variables. Basically, an OOD question with a hint of LLD.
